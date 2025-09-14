@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>My Portfolio</title>
+	
+</head>
+<body bgcolor=#F0F8FF>
+
+<font color=black face=Georgia size=7>
+
+<center>
+	<b><h6>Welcome to My World!</h6></b>
+<font face=Georgia>
+	<img src="allana.jpg" width="255"><img src="yanajane.jpg" width="255"><img src="yana.jpg" width="255">
+  <h2>This is Allana Jane,</h2></font>
+
+<font face=Candara size=4>
+   A <b>Computer Science</b> freshman at <b>Manila Central University</b>, eager to explore <br>
+   new ideas, improve skills, and build projects that challenge creativity. <br>
+   </br>
+   I’m always on the lookout for experiences and opportunities to learn more about programming,<br>
+   technology, and innovation that will help me grow and connect with the evolving digital world.<br>
+<br></br>
+</font>
+  
+<table bordercolor=#778899 border=3 cellpadding=5>
+<tr><td>
+	<a href=Contents.html>Step Inside...</a>
+</tr></td>
+</table>
+
+</center>
+
+</body>
+</html>
